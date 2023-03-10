@@ -38,10 +38,22 @@ Open a web browser and navigate to http://localhost:3000 to view the app.
 ## Conclusion
 The fitness tracker app is a robust and user-friendly application that makes it easy for users to track their fitness activities and progress towards their goals. Its use of React, Node.js, MongoDB, Mongoose, GraphQL, CSS, Apollo Client, and Progressive Web App technologies makes it a modern and efficient solution for fitness enthusiasts looking to monitor their fitness journey.
 
+## Images of the Finished Application
+
+![Screenshot 2023-03-09 222914](https://user-images.githubusercontent.com/112784768/224241541-5172810c-e815-447e-8436-30913b37854e.png)
+![Screenshot 2023-03-09 222845](https://user-images.githubusercontent.com/112784768/224241675-8bfbcb39-024f-4eb0-a4e0-058f4ddcf71d.png)
+![Screenshot 2023-03-09 223343](https://user-images.githubusercontent.com/112784768/224241708-59c90be4-f68c-4d6c-bf62-aecf79f59dd7.png)
+
+## Links
+
+- Heroku: https://fitnessjournal.herokuapp.com/login
+- Github: https://github.com/ZG4219/Fitness-Journal
+
 ## Contributors
 
 - Dionne Angeles https://github.com/ZG4219
 - Jeevan Johal https://github.com/jkjohal
+
 
 
 
